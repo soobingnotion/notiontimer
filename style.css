@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
- // background-color: #c2e6e8;
+ // background-color: #ffffff;
 }
 
 #root {
@@ -15,15 +15,15 @@ body {
 
 button,
 button:active {
-  background-color: rgb(234,178,156);
-  border: none;
+  background-color: #F5B12B;
+  border: 1px #000000 solid;
   width: 42px;
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em rgb(194, 91, 44);
-  -webkit-box-shadow: 0.2em 0.2em rgb(194, 91, 44);
-  -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44);
+  box-shadow: 0em 0em #DFFF00;
+  -webkit-box-shadow: 0em 0em #9FE2BF;
+  -moz-box-shadow: 0em 0em #FFBF00C;
 }
 
 button:focus {
